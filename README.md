@@ -1,7 +1,7 @@
 
-# Caesar Cipher
+# <h1>Caesar Cipher</h1>
 
-## Description
+##<h3> Description </h3>
 
 The Caesar Cipher is a classic encryption technique that shifts each letter in the plaintext by a fixed number of positions in the alphabet. This simple substitution cipher is named after Julius Caesar, who is reputed to have used it to communicate with his generals.
 
@@ -20,7 +20,7 @@ To run this script, you need Python and the `pyfiglet` package installed. Follow
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/repository.git
+    git clone [https://github.com/username/repository.git](https://github.com/Farhaaaaaaa/CEASAR-CIPHER-/blob/main/README.md)
     cd repository
     ```
 
