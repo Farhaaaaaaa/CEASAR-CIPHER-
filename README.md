@@ -10,5 +10,4 @@
 <br>
 <h3>Installation</h3>
 Ensure you have Python and the pyfiglet package installed. You can install the required package using pip:
-```bash
-pip install pyfiglet```
+
