@@ -1,7 +1,6 @@
 # CEASAR-CIPHER-
  <h3>Overview</h3>
 <p>The Caesar Cipher is a classic encryption technique that shifts each letter in the plaintext by a fixed number of positions in the alphabet. This simple substitution cipher is named after Julius Caesar, who is reputed to have used it to communicate with his generals.</p>
-<br>
 <h3>Features</h3>
 <B>Encryption:</B> Convert plain text to cipher text using a specified shift value.
 <br>
