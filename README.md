@@ -1,13 +1,54 @@
-# CEASAR-CIPHER-
- <h3>Overview</h3>
-<p>The Caesar Cipher is a classic encryption technique that shifts each letter in the plaintext by a fixed number of positions in the alphabet. This simple substitution cipher is named after Julius Caesar, who is reputed to have used it to communicate with his generals.</p>
-<h3>Features</h3>
-<B>Encryption:</B> Convert plain text to cipher text using a specified shift value.
-<br>
-<b>Decryption: </b>Convert cipher text back to plain text using the same shift value.
-<br>
-<b>Flexible Shift:</b> Allows any shift value to be used for both encryption and decryption.
-<br>
-<h3>Installation</h3>
-Ensure you have Python and the pyfiglet package installed. You can install the required package using pip:
+
+# Caesar Cipher
+
+## Description
+
+The Caesar Cipher is a classic encryption technique that shifts each letter in the plaintext by a fixed number of positions in the alphabet. This simple substitution cipher is named after Julius Caesar, who is reputed to have used it to communicate with his generals.
+
+This Python script allows you to encrypt and decrypt messages using the Caesar Cipher technique. It uses the `pyfiglet` library to display the software name in a fancy text format.
+
+## Features
+
+- **Encryption:** Convert plain text to cipher text using a specified shift value.
+- **Decryption:** Convert cipher text back to plain text using the same shift value.
+- **Flexible Shift:** Allows any shift value to be used for both encryption and decryption.
+- **Fancy Text Display:** Uses `pyfiglet` to display the software name in a fancy text format.
+
+## Installation
+
+To run this script, you need Python and the `pyfiglet` package installed. Follow these steps to set up your environment:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/username/repository.git
+    cd repository
+    ```
+
+2. Install the required package:
+    ```bash
+    pip install pyfiglet
+    ```
+
+## Usage
+
+Run the script with Python to encrypt or decrypt a message. Here’s how:
+
+1. **Run the Script:**
+    ```bash
+    python caesar_cipher.py
+    ```
+
+2. **Follow the Prompts:**
+
+   - Press `E` to encrypt a plain text or `D` to decrypt a cipher text.
+   - Enter the string you want to encrypt or decrypt.
+   - Enter the value to shift by (an integer).
+
+### Example
+
+```bash
+Press E to encrypt a plain text or D to decrypt a cipher text: E
+Enter the string: HELLO
+Enter the value to shift by: 3
+Encrypted text: KHOOR
 
